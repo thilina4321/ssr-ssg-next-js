@@ -1,0 +1,7 @@
+{
+    "products":[
+        {"pid":"1", "title":"product 1"},
+        {"pid":"2", "title":"product 2"},
+        {"pid":"3", "title":"product 3"}
+    ]
+}
